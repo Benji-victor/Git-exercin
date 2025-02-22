@@ -1,1 +1,10 @@
-Olá mundo
+Olá mundo 
+
+
+comidas favoritas: 
+
+lasanha
+sorvete
+strogonoff
+
+
